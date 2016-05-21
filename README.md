@@ -24,7 +24,7 @@ Installation
 4. Extract zipped files to your Vagrant directory
 5. Go to terminal and cd to your vagrant directory by entering **cd /fullstack/vagrant/**
 6. Type **vagrant up**  and then **vagrant ssh** to log in.
-7. Navigate to the tournament folder: /vagrant/swisstournament
+7. Navigate to the tournament folder: **cd /vagrant/swisstournament/**
 8. Setup the PostgreSQL Database by entering **psql**
 9. Create the database by running **\i tournament.sql**
 10. Your tables and views in the databases should now be setup. Type **\q** to quit psql
