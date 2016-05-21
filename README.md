@@ -20,7 +20,7 @@ Installation
 
 1. Download Vagrant from vagrantup.com. 
 2. To install Vagrant on your machine please see this [tutorial](https://www.udacity.com/wiki/ud197/install-vagrant) for more instruction using Vagrants. 
-3. Download The Swiss Tournament Game from [GitHub](https://github.com/introto/Swiss-Tournament---IK).
+3. Download The Swiss Tournament Game from [GitHub](https://github.com/introto/SwissTournament).
 4. Extract zipped files to your Vagrant directory
 5. Go to terminal and cd to your vagrant directory by entering **cd /fullstack/vagrant/**
 6. Type **vagrant up**  and then **vagrant ssh** to log in.
@@ -33,7 +33,7 @@ Installation
 
 What's included
 --------
-  Swiss-Tournament---IK
+  SwissTournamentIK
   
   -> tournament.py
   
